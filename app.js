@@ -1,5 +1,5 @@
 import express, { response } from "express";
-import productManager from "./data/fs/productManager2.js";
+import productManager from "./src/data/fs/productManager2.js";
 
 //para crear una aplicacion/servidor de express
 const app = express();

@@ -3,7 +3,7 @@ import fs from "fs";
 import crypto from "crypto";
 import json from "stream/consumers";
 
-let pathFile = "./data/fs/products.JSON";
+let pathFile = "./src/data/fs/products.JSON";
 /* Creo la clase */
 
 class ProductManager {
