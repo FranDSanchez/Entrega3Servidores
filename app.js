@@ -50,7 +50,7 @@ async function getProducts(req, res) {
   }
 }
 
-//Muestro por ID
+//Muestro por ID productos
 async function getProductById(req, res) {
   try {
     const { pid } = req.params;
