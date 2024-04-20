@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Smartphone Android",
+    "description": "Teléfono inteligente con sistema operativo Android y pantalla OLED de alta resolución.",
+    "price": 699.99,
+    "thumbnail": "https://ejemplo.com/smartphone.jpg",
+    "code": "SP1101",
+    "stock": 100
+  },
+  {
+    "id": 2,
+    "title": "Tableta gráfica",
+    "description": "Tableta digitalizadora con lápiz sensible a la presión para ilustración y diseño gráfico.",
+    "price": 199.99,
+    "thumbnail": "https://ejemplo.com/tableta.jpg",
+    "code": "TG1202",
+    "stock": 50
+  },
+  {
+    "id": 3,
+    "title": "Auriculares inalámbricos",
+    "description": "Auriculares Bluetooth con cancelación de ruido activa y calidad de sonido premium.",
+    "price": 149.99,
+    "thumbnail": "https://ejemplo.com/auriculares.jpg",
+    "code": "AI1303",
+    "stock": 80
+  },
+  {
+    "id": 4,
+    "title": "Smartwatch",
+    "description": "Reloj inteligente con monitor de actividad, GPS integrado y resistencia al agua.",
+    "price": 249.99,
+    "thumbnail": "https://ejemplo.com/smartwatch.jpg",
+    "code": "SW1404",
+    "stock": 60
+  },
+  {
+    "id": 5,
+    "title": "Cámara DSLR",
+    "description": "Cámara réflex digital de alta calidad con sensor de imagen de 24 MP y grabación de vídeo 4K.",
+    "price": 999.99,
+    "thumbnail": "https://ejemplo.com/camara.jpg",
+    "code": "CD1505",
+    "stock": 30
+  },
+  {
+    "id": 6,
+    "title": "Teclado mecánico para gaming",
+    "description": "Teclado mecánico con retroiluminación RGB y teclas programables para jugadores exigentes.",
+    "price": 129.99,
+    "thumbnail": "https://ejemplo.com/teclado.jpg",
+    "code": "TM1606",
+    "stock": 40
+  },
+  {
+    "id": 7,
+    "title": "Monitor curvo de 27 pulgadas",
+    "description": "Monitor curvo con resolución QHD y frecuencia de actualización de 144 Hz para una experiencia inmersiva.",
+    "price": 399.99,
+    "thumbnail": "https://ejemplo.com/monitor.jpg",
+    "code": "MC1707",
+    "stock": 25
+  },
+  {
+    "id": 8,
+    "title": "Impresora multifunción",
+    "description": "Impresora todo en uno con función de escaneo, copiado e impresión a color de alta calidad.",
+    "price": 179.99,
+    "thumbnail": "https://ejemplo.com/impresora.jpg",
+    "code": "IM1808",
+    "stock": 35
+  },
+  {
+    "id": 9,
+    "title": "Router Wi-Fi 6",
+    "description": "Router de última generación con tecnología Wi-Fi 6 para una conexión rápida y estable en todo el hogar.",
+    "price": 159.99,
+    "thumbnail": "https://ejemplo.com/router.jpg",
+    "code": "RW1909",
+    "stock": 45
+  },
+  {
+    "id": 10,
+    "title": "Disco duro externo SSD",
+    "description": "Disco duro externo de estado sólido con alta velocidad de transferencia de datos y capacidad de 1 TB.",
+    "price": 179.99,
+    "thumbnail": "https://ejemplo.com/disco.jpg",
+    "code": "DD2010",
+    "stock": 50
+  }
+]
